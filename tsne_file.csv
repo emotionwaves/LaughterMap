@@ -1,0 +1,803 @@
+x,y,file,label,class
+4.072168451,0.921176612,map/a10.wav,Being tickled,0
+-5.730882721,3.62533028,map/a100.wav,Being tickled,0
+-3.795092891,6.195829102,map/a102.wav,Being tickled,0
+-6.050618853,-1.18132565,map/a103.wav,Being tickled,0
+-3.54676,1.202275218,map/a104.wav,Being tickled,0
+-3.690150292,-2.915442921,map/a105.wav,Being tickled,0
+-9.366785098,-0.256069663,map/a106.wav,Being tickled,0
+-5.941877917,3.565051994,map/a107.wav,Being tickled,0
+-5.538695797,5.721691632,map/a108.wav,Being tickled,0
+8.778012603,2.20617044,map/a109.wav,Being tickled,0
+-11.12330986,0.13335978,map/a11.wav,Being tickled,0
+-10.86569659,2.814890247,map/a13.wav,Being tickled,0
+-3.31446693,4.27987836,map/a15.wav,Being tickled,0
+-5.429495377,-2.109182508,map/a16.wav,Being tickled,0
+-2.647031182,-1.218170826,map/a19.wav,Being tickled,0
+-8.204146164,2.539334811,map/a2.wav,Being tickled,0
+1.508726777,1.805010169,map/a21.wav,Being tickled,0
+8.098165536,0.098224539,map/a3.wav,Being tickled,0
+-3.464878788,6.836228909,map/a5.wav,Being tickled,0
+-5.568339366,-4.215704531,map/a8.wav,Being tickled,0
+-1.439042251,-1.893648526,map/a99.wav,Being tickled,0
+8.182311502,-3.78991396,map/aa101.wav,Being tickled,0
+-9.774286635,2.936715869,map/aa102.wav,Being tickled,0
+-9.706872048,0.034956014,map/aa103.wav,Being tickled,0
+-0.968492463,0.292850197,map/aa107.wav,Being tickled,0
+-10.15460462,1.511383412,map/aa108.wav,Being tickled,0
+-2.996918812,4.5892519,map/aa111.wav,Being tickled,0
+-0.280344231,1.432208166,map/aa113.wav,Being tickled,0
+-3.678739719,-4.475022183,map/aa17_1.wav,Being tickled,0
+0.164131849,-0.449826259,map/aa44.wav,Being tickled,0
+7.357681426,0.955206123,map/aa45.wav,Being tickled,0
+-5.744452606,1.488945016,map/aa46.wav,Being tickled,0
+-2.16988285,0.750566106,map/aa47.wav,Being tickled,0
+-8.460573617,1.475397571,map/aa49.wav,Being tickled,0
+-5.721950307,2.864681884,map/aa50.wav,Being tickled,0
+-0.208823078,2.364214961,map/aa51.wav,Being tickled,0
+0.561800681,3.95353144,map/aa52.wav,Being tickled,0
+1.607725569,1.544791398,map/aa53_1.wav,Being tickled,0
+0.304864773,-1.249817798,map/aa53_2.wav,Being tickled,0
+1.513624173,1.883189366,map/aa54_1.wav,Being tickled,0
+-5.33115558,0.648168432,map/aa54_2.wav,Being tickled,0
+4.647776068,-0.211592912,map/aa54_3.wav,Being tickled,0
+7.672320315,-0.771032371,map/aa55.wav,Being tickled,0
+2.978593231,-3.263553708,map/aa56.wav,Being tickled,0
+-9.25204856,1.921484613,map/aa57.wav,Being tickled,0
+7.138523074,1.81368526,map/aa58_1.wav,Being tickled,0
+8.569110478,0.967203232,map/aa58_2.wav,Being tickled,0
+2.083745949,1.234190489,map/aa59.wav,Being tickled,0
+-9.96156022,-1.088240415,map/aa61.wav,Being tickled,0
+-4.386323097,3.242063547,map/aa62.wav,Being tickled,0
+-2.439271366,5.596126816,map/aa63.wav,Being tickled,0
+5.268104242,1.095725488,map/aa64.wav,Being tickled,0
+-5.965563206,-0.006709285,map/aa66.wav,Being tickled,0
+-4.9088941,1.864191556,map/aa68_1.wav,Being tickled,0
+-4.639945405,4.564372616,map/aa68_2.wav,Being tickled,0
+-6.892263566,1.495420396,map/aa68_3.wav,Being tickled,0
+-7.118378751,2.388593174,map/aa68_4.wav,Being tickled,0
+-4.261147308,-0.484920558,map/aa69_1.wav,Being tickled,0
+-7.011775003,3.598485543,map/aa69_2.wav,Being tickled,0
+7.688674163,1.740838213,map/aa70_1.wav,Being tickled,0
+4.014099098,0.553938296,map/aa70_2.wav,Being tickled,0
+-10.29590406,-1.484523676,map/aa71_1.wav,Being tickled,0
+-10.50412638,-1.608334543,map/aa71_2.wav,Being tickled,0
+-10.45864683,-1.833119056,map/aa71_3.wav,Being tickled,0
+7.927998186,-2.999535087,map/aa72_1.wav,Being tickled,0
+2.917621076,3.422318151,map/aa72_2.wav,Being tickled,0
+-3.951247017,2.156782622,map/aa74.wav,Being tickled,0
+-3.731733285,2.357198014,map/aa76.wav,Being tickled,0
+-4.211792269,4.353549747,map/aa77_1.wav,Being tickled,0
+-5.017895098,4.738126629,map/aa77_2.wav,Being tickled,0
+-5.801968865,-1.663798101,map/aa79.wav,Being tickled,0
+-6.382572796,0.548864342,map/aa81_1.wav,Being tickled,0
+4.344264019,0.803687143,map/aa81_2.wav,Being tickled,0
+-10.21227297,1.587460246,map/aa82_1.wav,Being tickled,0
+2.826640157,2.066427224,map/aa82_2.wav,Being tickled,0
+-7.597560286,1.115839101,map/aa82_3.wav,Being tickled,0
+-7.701047189,0.908688124,map/aa82_4.wav,Being tickled,0
+-0.175967852,4.250590733,map/aa83_1.wav,Being tickled,0
+8.328454852,1.851133876,map/aa83_2.wav,Being tickled,0
+6.16049492,0.313833895,map/aa83_3.wav,Being tickled,0
+6.529253426,-0.061917587,map/aa83_4.wav,Being tickled,0
+9.272709893,-0.798337316,map/aa84_1.wav,Being tickled,0
+8.67925082,-2.103090385,map/aa84_2.wav,Being tickled,0
+9.133557836,-1.729472429,map/aa84_3.wav,Being tickled,0
+2.500861897,0.737017006,map/aa84_4.wav,Being tickled,0
+-5.917007868,4.030615369,map/aa85_1.wav,Being tickled,0
+-5.769817692,3.335077834,map/aa85_2.wav,Being tickled,0
+-2.087563158,5.543993897,map/aa87_1.wav,Being tickled,0
+0.629991328,5.541483236,map/aa87_2.wav,Being tickled,0
+-8.511895569,5.376220382,map/aa87_3.wav,Being tickled,0
+10.63263621,-0.124025511,map/aa88_1.wav,Being tickled,0
+10.44607705,0.824937758,map/aa88_2.wav,Being tickled,0
+1.915908518,4.128287743,map/aa88_3.wav,Being tickled,0
+8.833285334,1.881981608,map/aa88_4.wav,Being tickled,0
+-6.089722376,3.002090783,map/aa89.wav,Being tickled,0
+-6.452709206,5.952298567,map/aa93.wav,Being tickled,0
+-7.79376978,4.099200244,map/aa95.wav,Being tickled,0
+-7.509410693,1.579554269,map/aa96.wav,Being tickled,0
+-0.659004956,7.468557557,map/aa98_1.wav,Being tickled,0
+-1.267649167,7.571391111,map/aa98_2.wav,Being tickled,0
+0.396334006,0.092694833,map/ah42_4.wav,Being tickled,0
+5.063322825,-0.211885765,map/ah43_5.wav,Being tickled,0
+3.564518637,-0.077676402,map/ah44_2.wav,Being tickled,0
+-2.092678145,5.730881687,map/ah45_2.wav,Being tickled,0
+-5.217232471,3.975384697,map/ah46_2.wav,Being tickled,0
+2.021930035,-1.125089541,map/ah47_2.wav,Being tickled,0
+1.844063029,4.467809647,map/ah48_3.wav,Being tickled,0
+-8.348469145,4.402015676,map/ah49_3.wav,Being tickled,0
+8.406114996,2.013887564,map/ah50_1.wav,Being tickled,0
+-11.95218786,-0.765101711,map/ah52.wav,Being tickled,0
+-2.748567099,1.046644257,map/ah53_1.wav,Being tickled,0
+1.649873714,-0.384057166,map/ah54_4.wav,Being tickled,0
+-3.891024638,5.627335362,map/ah55.wav,Being tickled,0
+-0.48635378,4.324678595,map/ah56_5.wav,Being tickled,0
+-7.429519727,3.352127093,map/ah57_2.wav,Being tickled,0
+-3.783129695,-1.661844626,map/ah58.wav,Being tickled,0
+-4.278236791,4.471367306,map/ah60_4.wav,Being tickled,0
+-8.982002274,2.404754871,map/ah61_3.wav,Being tickled,0
+-7.389908282,3.520733089,map/ah62_4.wav,Being tickled,0
+-7.757891512,3.97129627,map/ah63_2.wav,Being tickled,0
+2.044374747,2.012460535,map/ah64_4.wav,Being tickled,0
+-6.409223328,3.844096248,map/ah65_2.wav,Being tickled,0
+-5.479521151,2.59746936,map/ah66_1.wav,Being tickled,0
+-5.274600884,5.193649754,map/ah67_2.wav,Being tickled,0
+-2.801381553,3.980804045,map/ah68.wav,Being tickled,0
+-6.121903768,3.291425689,map/ah69_2.wav,Being tickled,0
+-10.2748405,-2.506508219,map/ah70_3.wav,Being tickled,0
+-9.41375795,3.470620318,map/ah71_2.wav,Being tickled,0
+-0.940939398,2.23565502,map/ah72.wav,Being tickled,0
+-4.760477735,7.002804944,map/ah73.wav,Being tickled,0
+-2.715219693,7.334122329,map/ah74.wav,Being tickled,0
+-9.153765688,1.736942515,map/ah75.wav,Being tickled,0
+-5.718540354,7.00835509,map/ah76.wav,Being tickled,0
+-3.902372892,5.296322469,map/ah77.wav,Being tickled,0
+-11.24921937,1.627827203,map/ah78.wav,Being tickled,0
+-2.403600018,4.399100584,map/ah79.wav,Being tickled,0
+-7.505307561,3.307820253,map/ah80.wav,Being tickled,0
+-6.695587249,7.039888694,map/ah81.wav,Being tickled,0
+-4.475968184,6.706384928,map/ah82.wav,Being tickled,0
+-4.479931445,6.196478731,map/ah83.wav,Being tickled,0
+3.486704918,4.946603126,map/ah84.wav,Being tickled,0
+-6.119935736,6.674126146,map/ah85.wav,Being tickled,0
+-8.373192633,2.366963871,map/ah86.wav,Being tickled,0
+-9.461934339,3.682035463,map/ah87.wav,Being tickled,0
+-3.319489594,2.137911878,map/ah88.wav,Being tickled,0
+-6.314997454,6.341911118,map/ah89.wav,Being tickled,0
+-4.793631166,0.469050694,map/ah90.wav,Being tickled,0
+2.691518472,3.920372525,map/ah91.wav,Being tickled,0
+6.623734468,2.11467742,map/ah92.wav,Being tickled,0
+-4.279650547,3.867924765,map/ah93.wav,Being tickled,0
+0.961395637,-4.184472165,map/ah94.wav,Being tickled,0
+-7.420401305,4.485062172,map/ah95.wav,Being tickled,0
+-7.999016311,6.596848394,map/ah96.wav,Being tickled,0
+-9.080906435,4.116992279,map/ah97.wav,Being tickled,0
+0.468542501,3.68424309,map/ah98.wav,Being tickled,0
+-7.203194272,6.538675839,map/ah99.wav,Being tickled,0
+11.82813993,1.70853305,map/a46_4.wav,Funny stimuli,1
+10.2162727,-0.771460708,map/a54_3.wav,Funny stimuli,1
+-8.477938423,-4.506376439,map/a58_1.wav,Funny stimuli,1
+2.064103736,2.878300733,map/a66_2.wav,Funny stimuli,1
+-3.628770713,-3.842741134,map/a67.wav,Funny stimuli,1
+11.70719145,-0.102167637,map/a69_1.wav,Funny stimuli,1
+3.941937556,0.590727175,map/a69_2.wav,Funny stimuli,1
+1.236824164,3.295299524,map/a71.wav,Funny stimuli,1
+-4.28315527,2.500302249,map/a72.wav,Funny stimuli,1
+8.344344355,0.308288483,map/a73_1.wav,Funny stimuli,1
+-9.337668394,-1.096579286,map/a73_2.wav,Funny stimuli,1
+-2.890162182,2.638469549,map/a73_3.wav,Funny stimuli,1
+-2.803569309,5.932760744,map/a73_4.wav,Funny stimuli,1
+-8.276808977,2.692568523,map/a74_1.wav,Funny stimuli,1
+8.014750185,0.365893732,map/a76.wav,Funny stimuli,1
+7.6595306,3.808805286,map/a77.wav,Funny stimuli,1
+-7.691181076,1.711048363,map/a78.wav,Funny stimuli,1
+0.835401226,-1.915310815,map/a80.wav,Funny stimuli,1
+-3.89521254,1.0242774,map/a81.wav,Funny stimuli,1
+5.202107211,1.126118215,map/a84_3.wav,Funny stimuli,1
+9.002972368,-2.167030645,map/aa16_1.wav,Funny stimuli,1
+-4.559117935,2.448981454,map/aa16_2.wav,Funny stimuli,1
+-9.860280451,3.23974487,map/aa17_12.wav,Funny stimuli,1
+-1.251985875,1.459775123,map/aa17_2.wav,Funny stimuli,1
+1.653208766,-0.205720123,map/aa17_3.wav,Funny stimuli,1
+3.747389443,-6.077365629,map/aa17_4.wav,Funny stimuli,1
+-1.365924596,-1.56033899,map/aa17_5.wav,Funny stimuli,1
+-2.910044509,3.639088326,map/aa19_1.wav,Funny stimuli,1
+-6.035208034,0.975438209,map/aa19_3.wav,Funny stimuli,1
+-5.566645267,0.71685459,map/aa19_4.wav,Funny stimuli,1
+3.11696241,2.195744118,map/aa21_2.wav,Funny stimuli,1
+-10.23901722,-2.940738586,map/aa22_2.wav,Funny stimuli,1
+9.787986431,2.55085604,map/aa22_3.wav,Funny stimuli,1
+-1.318233634,-1.087682202,map/aa22_4.wav,Funny stimuli,1
+-7.245186989,-0.720736712,map/aa23_13.wav,Funny stimuli,1
+-2.539881766,0.003300791,map/aa23_15.wav,Funny stimuli,1
+-5.534117778,-2.984389944,map/aa23_4.wav,Funny stimuli,1
+-4.26527413,-3.760871139,map/aa23_9.wav,Funny stimuli,1
+-9.516527436,1.969370727,map/aa24_3.wav,Funny stimuli,1
+-6.820394034,-2.954852919,map/aa25_2.wav,Funny stimuli,1
+6.970836709,3.563254164,map/aa25_7.wav,Funny stimuli,1
+-5.970344429,-2.852949991,map/aa26_2.wav,Funny stimuli,1
+6.094313441,1.279575081,map/aa27_3.wav,Funny stimuli,1
+0.109760573,0.290213891,map/aa27_4.wav,Funny stimuli,1
+8.255601613,1.76378013,map/aa28_1.wav,Funny stimuli,1
+-6.076389076,0.13546354,map/aa28_3.wav,Funny stimuli,1
+10.46180074,3.105330546,map/aa28_5.wav,Funny stimuli,1
+-0.625178074,1.915177212,map/aa28_6.wav,Funny stimuli,1
+-2.288973755,-1.421141041,map/aa29_3.wav,Funny stimuli,1
+-4.304672731,-2.749755958,map/aa29_5.wav,Funny stimuli,1
+-11.35275452,-0.971744448,map/aa30_2.wav,Funny stimuli,1
+-5.849142343,-0.771316882,map/aa34.wav,Funny stimuli,1
+-7.177336599,-2.883544233,map/aa35_1.wav,Funny stimuli,1
+-8.15548054,3.936525862,map/aa35_2.wav,Funny stimuli,1
+-2.590501267,5.442267518,map/aa35_4.wav,Funny stimuli,1
+2.41549984,1.085887732,map/aa35_5.wav,Funny stimuli,1
+-6.164286253,7.046701113,map/aa37.wav,Funny stimuli,1
+7.301923889,-2.009374854,map/aa38.wav,Funny stimuli,1
+11.0482495,0.934344861,map/aa42.wav,Funny stimuli,1
+11.46800167,1.098692364,map/aa43.wav,Funny stimuli,1
+2.314308659,-1.8317031,map/ah1_2.wav,Funny stimuli,1
+-4.198183721,2.201185295,map/ah1_3.wav,Funny stimuli,1
+6.656642939,-4.431189101,map/ah1_6.wav,Funny stimuli,1
+-7.138256531,1.452255787,map/ah10_1.wav,Funny stimuli,1
+-9.317569855,0.053768466,map/ah11_1.wav,Funny stimuli,1
+9.733078172,2.750793959,map/ah11_2.wav,Funny stimuli,1
+-3.312077021,-2.658562441,map/ah11_3.wav,Funny stimuli,1
+1.585868091,-0.440879843,map/ah11_4.wav,Funny stimuli,1
+-7.122846198,2.537746038,map/ah11_5.wav,Funny stimuli,1
+8.966338444,-2.829595791,map/ah11_6.wav,Funny stimuli,1
+0.595655486,-4.614785248,map/ah12_1.wav,Funny stimuli,1
+10.78735516,-0.587912598,map/ah12_2.wav,Funny stimuli,1
+-3.934129827,-1.697195173,map/ah12_3.wav,Funny stimuli,1
+-7.13067673,-3.817918423,map/ah12_4.wav,Funny stimuli,1
+-4.846191868,-4.787011939,map/ah12_5.wav,Funny stimuli,1
+-7.272114099,-2.59680909,map/ah13_1.wav,Funny stimuli,1
+7.167492745,-3.891758145,map/ah13_2.wav,Funny stimuli,1
+-1.449690378,-1.954378714,map/ah13_3.wav,Funny stimuli,1
+-6.941702613,-1.459120116,map/ah13_4.wav,Funny stimuli,1
+-6.857574816,-3.639554117,map/ah13_5.wav,Funny stimuli,1
+-5.341905189,-1.351287482,map/ah14_10.wav,Funny stimuli,1
+-1.628435323,1.774830567,map/ah14_11.wav,Funny stimuli,1
+-1.836554248,1.591886105,map/ah14_12.wav,Funny stimuli,1
+-8.875732244,1.447698177,map/ah14_13.wav,Funny stimuli,1
+-7.714660916,2.675357557,map/ah14_14.wav,Funny stimuli,1
+-5.352865796,-2.234519683,map/ah14_16.wav,Funny stimuli,1
+-1.04534919,-1.258241728,map/ah14_17.wav,Funny stimuli,1
+11.38204774,0.696036142,map/ah14_18.wav,Funny stimuli,1
+8.257914756,-0.885438877,map/ah14_19.wav,Funny stimuli,1
+-0.640147533,1.419726726,map/ah14_2.wav,Funny stimuli,1
+0.105744107,1.437407063,map/ah14_3.wav,Funny stimuli,1
+-2.499050689,1.921255789,map/ah14_5.wav,Funny stimuli,1
+-6.055092093,1.122553041,map/ah14_8.wav,Funny stimuli,1
+-10.09188699,3.554812699,map/ah14_9.wav,Funny stimuli,1
+-6.755242292,6.742385049,map/ah17_8.wav,Funny stimuli,1
+1.154399171,-0.63361434,map/ah19_1.wav,Funny stimuli,1
+-0.485813667,-2.480882003,map/ah19_10.wav,Funny stimuli,1
+3.814744951,0.025451711,map/ah19_14.wav,Funny stimuli,1
+1.639554396,0.985865394,map/ah19_2.wav,Funny stimuli,1
+-9.023199942,0.762359052,map/ah19_7.wav,Funny stimuli,1
+3.677346762,-1.703024284,map/ah19_8.wav,Funny stimuli,1
+-0.67610624,0.619926911,map/ah19_9.wav,Funny stimuli,1
+0.582645688,2.550579369,map/ah2_1.wav,Funny stimuli,1
+-8.045777142,-2.225571291,map/ah2_2.wav,Funny stimuli,1
+-0.665027796,-0.293142784,map/ah2_3.wav,Funny stimuli,1
+10.80238679,-0.879481895,map/ah2_4.wav,Funny stimuli,1
+-0.352326664,2.711504978,map/ah2_5.wav,Funny stimuli,1
+-1.638486076,-7.250345762,map/ah20_1.wav,Funny stimuli,1
+4.649127485,-1.108667356,map/ah20_10.wav,Funny stimuli,1
+-2.217675953,-7.614678171,map/ah20_3.wav,Funny stimuli,1
+-3.132665887,-0.163411356,map/ah20_6.wav,Funny stimuli,1
+4.133483537,-0.725497432,map/ah21_10.wav,Funny stimuli,1
+-8.376516994,-3.105396832,map/ah21_11.wav,Funny stimuli,1
+-3.101401244,0.144350326,map/ah21_12.wav,Funny stimuli,1
+4.738547119,0.201883774,map/ah21_14.wav,Funny stimuli,1
+6.67736297,-3.27814994,map/ah21_15.wav,Funny stimuli,1
+2.59976321,-5.607444854,map/ah21_16.wav,Funny stimuli,1
+-4.800501728,-1.490956911,map/ah21_4.wav,Funny stimuli,1
+-2.11305938,-0.487887091,map/ah21_5.wav,Funny stimuli,1
+-2.083673893,-2.374508237,map/ah21_8.wav,Funny stimuli,1
+-7.037511992,4.885846442,map/ah22_1.wav,Funny stimuli,1
+-6.241606859,-2.991817691,map/ah22_2.wav,Funny stimuli,1
+-4.05949221,-3.014696247,map/ah22_3.wav,Funny stimuli,1
+1.260665742,-6.275125363,map/ah22_4.wav,Funny stimuli,1
+2.40899326,2.267011429,map/ah22_8.wav,Funny stimuli,1
+-3.740236933,-4.478016752,map/ah22_9.wav,Funny stimuli,1
+1.258518634,1.535599677,map/ah23_1.wav,Funny stimuli,1
+-10.80103298,-1.422605407,map/ah23_13.wav,Funny stimuli,1
+-5.237907751,-5.812947289,map/ah23_14.wav,Funny stimuli,1
+7.707856435,-1.765727579,map/ah23_15.wav,Funny stimuli,1
+-0.207119592,1.806348598,map/ah23_2.wav,Funny stimuli,1
+-5.023618346,-6.236608022,map/ah23_3.wav,Funny stimuli,1
+3.039374499,-3.245382649,map/ah23_6.wav,Funny stimuli,1
+4.842828133,0.894054937,map/ah23_8.wav,Funny stimuli,1
+8.614148094,-2.657299587,map/ah24_13.wav,Funny stimuli,1
+-5.034539419,-2.717863697,map/ah24_15.wav,Funny stimuli,1
+1.481294456,-0.051260848,map/ah24_16.wav,Funny stimuli,1
+0.897706818,-2.68114448,map/ah24_17.wav,Funny stimuli,1
+-4.094359495,-5.625850985,map/ah24_3.wav,Funny stimuli,1
+8.830991671,-2.086431362,map/ah25_1.wav,Funny stimuli,1
+0.397877526,-5.11539557,map/ah25_2.wav,Funny stimuli,1
+2.954265344,-1.461915589,map/ah25_3.wav,Funny stimuli,1
+-2.227978118,-3.019855464,map/ah25_8.wav,Funny stimuli,1
+-1.256307415,-1.873295572,map/ah25_9.wav,Funny stimuli,1
+-6.602573874,-3.668911135,map/ah26_1.wav,Funny stimuli,1
+3.194119808,-3.918444332,map/ah26_11.wav,Funny stimuli,1
+-7.818094616,-3.95568102,map/ah26_14.wav,Funny stimuli,1
+5.609750641,0.131790824,map/ah26_15.wav,Funny stimuli,1
+-5.074371642,-5.404598435,map/ah26_2.wav,Funny stimuli,1
+-6.445925687,-3.571611275,map/ah26_7.wav,Funny stimuli,1
+-4.800639843,-5.493748055,map/ah26_9.wav,Funny stimuli,1
+-3.425424892,-4.794321605,map/ah27_1.wav,Funny stimuli,1
+-0.017975634,-3.242297623,map/ah27_6.wav,Funny stimuli,1
+0.891704962,-1.788973992,map/ah27_7.wav,Funny stimuli,1
+6.056488994,-3.766770301,map/ah28_1.wav,Funny stimuli,1
+9.715362248,-4.041152892,map/ah28_2.wav,Funny stimuli,1
+1.929154011,-5.294498613,map/ah28_5.wav,Funny stimuli,1
+5.816605102,-4.012789212,map/ah28_6.wav,Funny stimuli,1
+7.848525361,-2.107633786,map/ah29_1.wav,Funny stimuli,1
+1.048778526,-4.581216525,map/ah29_2.wav,Funny stimuli,1
+-2.0160862,-2.543081702,map/ah29_5.wav,Funny stimuli,1
+-1.267237618,-3.734980841,map/ah29_6.wav,Funny stimuli,1
+3.858673499,-5.317938198,map/ah29_8.wav,Funny stimuli,1
+11.97858936,-0.186526466,map/ah3.wav,Funny stimuli,1
+-3.448211732,-5.959433169,map/ah32_3.wav,Funny stimuli,1
+-2.885788267,6.296939055,map/ah33_1.wav,Funny stimuli,1
+-6.791536217,0.043771822,map/ah33_2.wav,Funny stimuli,1
+5.113429284,-0.587151082,map/ah33_3.wav,Funny stimuli,1
+6.716615487,2.034655658,map/ah33_4.wav,Funny stimuli,1
+2.399469292,-4.222476614,map/ah34_1.wav,Funny stimuli,1
+-10.63735365,-1.922360224,map/ah34_2.wav,Funny stimuli,1
+-7.876644475,-3.455895885,map/ah35_1.wav,Funny stimuli,1
+-2.906238498,-3.943529674,map/ah35_2.wav,Funny stimuli,1
+5.624428936,1.762888168,map/ah35_6.wav,Funny stimuli,1
+-1.048433428,-2.634124362,map/ah35_7.wav,Funny stimuli,1
+-2.593145216,-0.910327009,map/ah36_1.wav,Funny stimuli,1
+-3.883286314,-7.516854972,map/ah36_10.wav,Funny stimuli,1
+-4.72968035,-0.817380218,map/ah36_11.wav,Funny stimuli,1
+-3.474908706,-4.033414412,map/ah36_2.wav,Funny stimuli,1
+0.097339174,-0.331674663,map/ah36_3.wav,Funny stimuli,1
+-6.725339753,-1.663115963,map/ah36_5.wav,Funny stimuli,1
+-3.305184764,-2.64752582,map/ah36_6.wav,Funny stimuli,1
+-4.913652718,-3.11681539,map/ah36_8.wav,Funny stimuli,1
+-9.710748514,-0.387943906,map/ah37_1.wav,Funny stimuli,1
+-1.683171202,-9.458794612,map/ah38_12.wav,Funny stimuli,1
+2.098229926,-1.861286918,map/ah38_13.wav,Funny stimuli,1
+-8.350321525,-3.729053545,map/ah38_14.wav,Funny stimuli,1
+5.183373576,-2.826334425,map/ah38_15.wav,Funny stimuli,1
+-3.826014355,-5.367936483,map/ah38_16.wav,Funny stimuli,1
+11.55350289,-2.050216878,map/ah38_2.wav,Funny stimuli,1
+-2.334489611,-1.308570494,map/ah38_6.wav,Funny stimuli,1
+-1.735869889,-7.872708925,map/ah38_7.wav,Funny stimuli,1
+13.96916733,1.747187449,map/ah39_1.wav,Funny stimuli,1
+1.325865349,1.094926873,map/ah39_10.wav,Funny stimuli,1
+-5.524344464,-7.808873221,map/ah39_2.wav,Funny stimuli,1
+-6.147725904,-4.13591721,map/ah39_6.wav,Funny stimuli,1
+-9.807031908,-1.173820935,map/ah39_7.wav,Funny stimuli,1
+13.57679362,-0.388064646,map/ah4.wav,Funny stimuli,1
+4.311906204,-0.918385488,map/ah40_1.wav,Funny stimuli,1
+-9.995001001,0.841357476,map/ah40_2.wav,Funny stimuli,1
+5.052031438,-2.782425928,map/ah5_1.wav,Funny stimuli,1
+-2.792457059,-4.504802312,map/ah5_2.wav,Funny stimuli,1
+7.391696012,-2.229260436,map/ah5_3.wav,Funny stimuli,1
+7.218218263,2.942927494,map/ah5_4.wav,Funny stimuli,1
+3.933999929,2.605666084,map/ah5_5.wav,Funny stimuli,1
+10.37415932,1.830493643,map/ah5_6.wav,Funny stimuli,1
+9.036135436,2.26534594,map/ah5_7.wav,Funny stimuli,1
+9.069619446,-1.249012252,map/ah5_8.wav,Funny stimuli,1
+-8.343572138,2.639344128,map/ah6_1.wav,Funny stimuli,1
+7.450945067,1.641591536,map/ah6_2.wav,Funny stimuli,1
+-5.477517068,7.30879783,map/ah6_3.wav,Funny stimuli,1
+3.131267587,6.333929428,map/ah7_1.wav,Funny stimuli,1
+-1.465757178,1.369938777,map/ah7_2.wav,Funny stimuli,1
+13.5661509,0.142370342,map/ah7_3.wav,Funny stimuli,1
+6.645366951,-1.552995926,map/ah7_4.wav,Funny stimuli,1
+-5.834373648,-0.814779242,map/ah7_5.wav,Funny stimuli,1
+-1.589478496,4.218734563,map/ah7_6.wav,Funny stimuli,1
+-1.986466272,2.51000878,map/ah7_7.wav,Funny stimuli,1
+0.676164066,3.649383336,map/ah7_8.wav,Funny stimuli,1
+8.403747338,2.622572778,map/ah8_6.wav,Funny stimuli,1
+6.654344874,-2.596313767,map/ah8_7.wav,Funny stimuli,1
+10.39888656,1.268252242,map/ah9_1.wav,Funny stimuli,1
+-8.31155315,-3.617634742,map/ah9_2.wav,Funny stimuli,1
+9.989462417,1.366144674,map/ah9_3.wav,Funny stimuli,1
+9.956203443,0.891728372,map/ah9_4.wav,Funny stimuli,1
+-3.252157126,2.719019292,map/ah9_5.wav,Funny stimuli,1
+4.662059153,1.6323963,map/ah9_6.wav,Funny stimuli,1
+-5.822957843,-3.543835055,map/ah100_1.wav,Funny stimuli,1
+6.167208349,-2.184272183,map/ah100_2.wav,Funny stimuli,1
+7.937585828,-4.611805438,map/ah100_3.wav,Funny stimuli,1
+-5.486939815,-3.154855152,map/ah100_4.wav,Funny stimuli,1
+-7.723680222,-2.12926115,map/ah100_5.wav,Funny stimuli,1
+-6.972566745,1.877860587,map/ah100_6.wav,Funny stimuli,1
+-6.157763293,-4.356192352,map/ah100_7.wav,Funny stimuli,1
+-4.127883448,-1.882843566,map/ah144.wav,Funny stimuli,1
+-6.338153682,2.194230267,map/ah145.wav,Funny stimuli,1
+-0.344046022,2.01032065,map/ah146.wav,Funny stimuli,1
+-1.775699274,4.111855828,map/ah147.wav,Funny stimuli,1
+6.705623151,-2.637785808,map/ah148.wav,Funny stimuli,1
+-1.726623113,-0.307804981,map/ah149.wav,Funny stimuli,1
+-9.430484851,3.726660707,map/ah150.wav,Funny stimuli,1
+6.766013644,-4.520659024,map/ah151.wav,Funny stimuli,1
+-0.776751725,0.74505273,map/ah153.wav,Funny stimuli,1
+6.761067271,0.156842236,map/ah154.wav,Funny stimuli,1
+-3.665738482,4.290890577,map/ah155_1.wav,Funny stimuli,1
+7.977138321,1.339219323,map/ah155_2.wav,Funny stimuli,1
+-7.316881505,1.880806251,map/ah155_3.wav,Funny stimuli,1
+-4.683685796,-1.161435115,map/ah156_1.wav,Funny stimuli,1
+-1.139405328,0.636624744,map/ah156_2.wav,Funny stimuli,1
+10.74020552,1.382087522,map/ah156_3.wav,Funny stimuli,1
+-3.043720015,-0.423841883,map/ah156_4.wav,Funny stimuli,1
+7.307771109,2.241622177,map/ah156_5.wav,Funny stimuli,1
+12.36815452,-0.075332155,map/ah156_6.wav,Funny stimuli,1
+12.01668751,-0.151073309,map/ah156_7.wav,Funny stimuli,1
+10.99117947,2.358404238,map/ah157_2.wav,Funny stimuli,1
+13.30341714,1.058086698,map/ah157_3.wav,Funny stimuli,1
+-5.565026535,-3.801299273,map/ah157_4.wav,Funny stimuli,1
+5.941512095,-0.491382976,map/ah158_1.wav,Funny stimuli,1
+11.12306764,0.433375308,map/ah158_2.wav,Funny stimuli,1
+6.340744071,1.635599614,map/ah158_3.wav,Funny stimuli,1
+1.626824095,-0.075911707,map/ah158_4.wav,Funny stimuli,1
+12.58297354,0.037542293,map/ah158_5.wav,Funny stimuli,1
+9.2647852,3.489088836,map/ah158_6.wav,Funny stimuli,1
+1.726046098,1.431028224,map/ah158_7.wav,Funny stimuli,1
+9.301998615,-2.67034843,map/ah158_8.wav,Funny stimuli,1
+3.28935613,-1.146248985,map/ah159.wav,Funny stimuli,1
+4.093688108,0.529027179,map/ah160.wav,Funny stimuli,1
+2.792420154,0.600125087,map/ah161_1.wav,Funny stimuli,1
+0.909623204,2.803337349,map/ah161_2.wav,Funny stimuli,1
+-1.926911243,4.193592237,map/ah162_1.wav,Funny stimuli,1
+10.17429957,-3.407266474,map/ah162_2.wav,Funny stimuli,1
+7.041819543,-3.145397776,map/ah162_3.wav,Funny stimuli,1
+11.2713404,-0.907720863,map/ah162_4.wav,Funny stimuli,1
+10.83032068,-0.442048125,map/ah162_5.wav,Funny stimuli,1
+4.625482663,2.455187817,map/ah162_6.wav,Funny stimuli,1
+-2.079096963,4.145993114,map/ah162_7.wav,Funny stimuli,1
+-5.437533979,0.914252526,map/a49_10.wav,Misfortune of others,2
+8.419376459,0.624439121,map/a49_11.wav,Misfortune of others,2
+0.767701426,0.619828468,map/a49_12.wav,Misfortune of others,2
+-0.143513498,0.541350772,map/a49_13.wav,Misfortune of others,2
+3.21725443,-0.145284587,map/a49_14.wav,Misfortune of others,2
+-3.322249818,-1.028369733,map/a49_16.wav,Misfortune of others,2
+-6.304736072,2.22130405,map/a49_17.wav,Misfortune of others,2
+-6.44200271,2.939149172,map/a49_18.wav,Misfortune of others,2
+-5.024744257,2.553016745,map/a49_6.wav,Misfortune of others,2
+-0.98297662,-1.21192416,map/a49_7.wav,Misfortune of others,2
+-6.744364318,-0.333724097,map/a49_8.wav,Misfortune of others,2
+-1.627513993,0.72788132,map/a49_9.wav,Misfortune of others,2
+-2.196240697,0.099982058,map/a50_1.wav,Misfortune of others,2
+0.359167626,4.430042339,map/a50_3.wav,Misfortune of others,2
+-0.17722415,-0.086883523,map/a52_1.wav,Misfortune of others,2
+5.168894916,1.080454714,map/a52_2.wav,Misfortune of others,2
+-3.422133821,-2.20475692,map/a52_3.wav,Misfortune of others,2
+3.999895379,-3.841545671,map/a53_1.wav,Misfortune of others,2
+6.28082992,-2.572154881,map/a53_2.wav,Misfortune of others,2
+-0.363862473,3.107692084,map/a54_2.wav,Misfortune of others,2
+-3.216571052,-3.353454667,map/a54_4.wav,Misfortune of others,2
+7.767614298,0.281017527,map/a54_5.wav,Misfortune of others,2
+1.346958826,0.395497512,map/a54_6.wav,Misfortune of others,2
+-0.14720503,1.561859297,map/a55_3.wav,Misfortune of others,2
+-8.674571399,-2.324023523,map/a55_4.wav,Misfortune of others,2
+0.630030671,2.310862608,map/a60_2.wav,Misfortune of others,2
+-6.247077928,3.912299207,map/a60_4.wav,Misfortune of others,2
+-0.613270923,-2.16875608,map/a60_5.wav,Misfortune of others,2
+-1.203741778,-0.188396859,map/a62_10.wav,Misfortune of others,2
+-8.450663809,-1.907209366,map/a62_2.wav,Misfortune of others,2
+-4.881339993,2.237620518,map/a62_3.wav,Misfortune of others,2
+7.663506472,1.833055249,map/a62_7.wav,Misfortune of others,2
+3.469702576,-0.170958145,map/a62_8.wav,Misfortune of others,2
+5.118820355,0.467759119,map/a63.wav,Misfortune of others,2
+1.175547835,1.518428089,map/a64_1.wav,Misfortune of others,2
+2.965092709,0.741599616,map/a64_3.wav,Misfortune of others,2
+9.587974207,4.07145716,map/a65_2.wav,Misfortune of others,2
+-4.534375237,4.910299182,map/a66_3.wav,Misfortune of others,2
+0.132398896,1.483390879,map/a68_3.wav,Misfortune of others,2
+3.624351906,2.549377895,map/a68_5.wav,Misfortune of others,2
+9.487775229,2.781092187,map/aa17_10.wav,Misfortune of others,2
+-4.142060539,-1.771090666,map/aa17_13.wav,Misfortune of others,2
+7.492692823,3.058089129,map/aa17_6.wav,Misfortune of others,2
+-9.688278353,1.005933609,map/aa17_9.wav,Misfortune of others,2
+10.07972295,0.387755074,map/aa19_2.wav,Misfortune of others,2
+-9.252634864,-1.84649965,map/aa21_1.wav,Misfortune of others,2
+1.786982241,-4.976056697,map/aa21_3.wav,Misfortune of others,2
+-1.849610762,0.599237488,map/aa21_4.wav,Misfortune of others,2
+-9.270273078,-2.229014826,map/aa21_5.wav,Misfortune of others,2
+-7.229356726,2.761758417,map/aa22_1.wav,Misfortune of others,2
+-0.248658028,0.372158925,map/aa23_1.wav,Misfortune of others,2
+8.266637914,-0.423187904,map/aa23_10.wav,Misfortune of others,2
+1.252397164,2.283101474,map/aa23_11.wav,Misfortune of others,2
+-3.359954394,-5.284765111,map/aa23_12.wav,Misfortune of others,2
+5.851059935,0.068846805,map/aa23_14.wav,Misfortune of others,2
+6.502620498,-4.937946888,map/aa23_16.wav,Misfortune of others,2
+-7.190150227,0.036954581,map/aa23_17.wav,Misfortune of others,2
+7.749620049,1.978238962,map/aa23_2.wav,Misfortune of others,2
+-4.444142812,-2.776560067,map/aa23_3.wav,Misfortune of others,2
+-3.896130266,-4.163839277,map/aa23_5.wav,Misfortune of others,2
+8.98972471,-3.169470427,map/aa23_6.wav,Misfortune of others,2
+2.46083258,1.091822897,map/aa23_7.wav,Misfortune of others,2
+7.334481042,2.31518422,map/aa23_8.wav,Misfortune of others,2
+-1.638031422,-5.259462624,map/aa24_1.wav,Misfortune of others,2
+4.561027599,-0.801946968,map/aa24_2.wav,Misfortune of others,2
+9.822688256,-0.105307749,map/aa25_4.wav,Misfortune of others,2
+-6.596026785,1.192715946,map/aa25_6.wav,Misfortune of others,2
+-2.48348258,-0.378150006,map/aa26_1.wav,Misfortune of others,2
+2.885990205,-2.978478235,map/aa26_4.wav,Misfortune of others,2
+1.104044683,0.882268986,map/aa26_5.wav,Misfortune of others,2
+13.60321105,-0.70903508,map/aa28_2.wav,Misfortune of others,2
+5.881356148,0.532000779,map/aa28_4.wav,Misfortune of others,2
+-8.074341233,1.730481108,map/aa29_2.wav,Misfortune of others,2
+-5.264450327,1.775287829,map/aa29_4.wav,Misfortune of others,2
+2.280348421,1.057134513,map/aa30_1.wav,Misfortune of others,2
+5.405344633,-1.387409874,map/aa30_3.wav,Misfortune of others,2
+3.819997152,-5.045566989,map/aa31_2.wav,Misfortune of others,2
+-11.09575452,-0.733069184,map/aa31_5.wav,Misfortune of others,2
+1.233999847,0.705814432,map/aa33_1.wav,Misfortune of others,2
+-8.251728729,6.723161829,map/aa33_2.wav,Misfortune of others,2
+5.444809678,3.712148792,map/aa33_3.wav,Misfortune of others,2
+11.34633706,1.497335319,map/aa35_3.wav,Misfortune of others,2
+6.416392309,2.041814939,map/aal1.wav,Misfortune of others,2
+6.25550019,0.857102391,map/aal10.wav,Misfortune of others,2
+-6.459649111,3.915628751,map/aal11.wav,Misfortune of others,2
+4.863603006,2.29880265,map/aal12.wav,Misfortune of others,2
+4.872270968,-0.850813097,map/aal13.wav,Misfortune of others,2
+0.173408116,-0.505639718,map/aal15.wav,Misfortune of others,2
+1.112525048,4.056436286,map/aal16.wav,Misfortune of others,2
+-5.446238545,7.181164857,map/aal17.wav,Misfortune of others,2
+1.324253118,2.047853826,map/aal18.wav,Misfortune of others,2
+-3.596150031,-3.893794457,map/aal19.wav,Misfortune of others,2
+12.6685418,0.05532107,map/aal2.wav,Misfortune of others,2
+-0.512128148,0.612565635,map/aal21.wav,Misfortune of others,2
+1.943265799,-0.31993755,map/aal22.wav,Misfortune of others,2
+-7.456239929,-1.491983051,map/aal23.wav,Misfortune of others,2
+-4.372684755,-5.361270871,map/aal24.wav,Misfortune of others,2
+-2.67380865,-2.007791641,map/aal25.wav,Misfortune of others,2
+2.431434081,-0.327156673,map/aal26.wav,Misfortune of others,2
+4.882973485,-0.552810208,map/aal27.wav,Misfortune of others,2
+4.691125203,0.997854464,map/aal28.wav,Misfortune of others,2
+2.542881666,-1.30593293,map/aal29.wav,Misfortune of others,2
+-1.006313174,5.395113885,map/aal3.wav,Misfortune of others,2
+-4.931061762,-1.408523641,map/aal30.wav,Misfortune of others,2
+-4.498385696,-3.067348419,map/aal31.wav,Misfortune of others,2
+-1.177188454,-0.289396724,map/aal32.wav,Misfortune of others,2
+-3.560462753,-1.158647501,map/aal33.wav,Misfortune of others,2
+-9.701440427,2.405950983,map/aal34.wav,Misfortune of others,2
+10.06031825,0.475056579,map/aal35.wav,Misfortune of others,2
+10.66495004,2.767903128,map/aal36.wav,Misfortune of others,2
+-4.15287096,-1.381223405,map/aal37.wav,Misfortune of others,2
+-6.395514361,2.041987309,map/aal38.wav,Misfortune of others,2
+-4.306173041,-0.293828113,map/aal39.wav,Misfortune of others,2
+-6.432192205,0.605909883,map/aal4.wav,Misfortune of others,2
+3.461717746,0.295646151,map/aal40.wav,Misfortune of others,2
+-11.3369731,-0.870549244,map/aal41.wav,Misfortune of others,2
+-0.483736526,-8.88147998,map/aal42.wav,Misfortune of others,2
+7.587878663,2.144118015,map/aal43.wav,Misfortune of others,2
+-2.419974087,3.140084855,map/aal44.wav,Misfortune of others,2
+-2.420332115,3.142042707,map/aal45.wav,Misfortune of others,2
+-0.36149405,3.1498335,map/aal46.wav,Misfortune of others,2
+-5.372193936,4.53859715,map/aal47.wav,Misfortune of others,2
+7.597250683,5.302365106,map/aal48.wav,Misfortune of others,2
+-8.477489977,2.87669823,map/aal49.wav,Misfortune of others,2
+-6.470450217,-1.192305733,map/aal5.wav,Misfortune of others,2
+5.643751903,-0.791008933,map/aal50.wav,Misfortune of others,2
+1.370827334,-1.985767798,map/aal51.wav,Misfortune of others,2
+1.13401419,-3.823565444,map/aal52.wav,Misfortune of others,2
+-3.34158022,-1.685612974,map/aal6.wav,Misfortune of others,2
+-1.560910395,-0.228152621,map/aal7.wav,Misfortune of others,2
+6.3803687,2.930938581,map/aal8.wav,Misfortune of others,2
+-6.421291453,-1.922622631,map/aal9.wav,Misfortune of others,2
+-7.176267548,-1.16919789,map/ah10_2.wav,Misfortune of others,2
+-4.307488485,-4.299972212,map/ah15_2.wav,Misfortune of others,2
+9.75042308,0.828782367,map/ah16_3.wav,Misfortune of others,2
+-2.040913081,-8.181417437,map/ah16_4.wav,Misfortune of others,2
+3.98216265,0.545633335,map/ah17_3.wav,Misfortune of others,2
+3.551239662,-0.080141908,map/ah17_4.wav,Misfortune of others,2
+-5.069315183,2.051359595,map/ah19_11.wav,Misfortune of others,2
+-0.625306967,3.690958852,map/ah19_12.wav,Misfortune of others,2
+-7.418469594,0.551812397,map/ah19_13.wav,Misfortune of others,2
+3.626717023,-3.663568462,map/ah19_4.wav,Misfortune of others,2
+3.775096277,-1.065727976,map/ah20_7.wav,Misfortune of others,2
+-6.087419388,-2.00054577,map/ah20_9.wav,Misfortune of others,2
+9.693489815,-1.467602842,map/ah24_7.wav,Misfortune of others,2
+0.453329704,-5.025342989,map/ah24_9.wav,Misfortune of others,2
+12.07185033,-2.613775012,map/ah25_4.wav,Misfortune of others,2
+-1.765593493,-2.837722378,map/ah26_8.wav,Misfortune of others,2
+2.638630367,-1.552768324,map/ah27_8.wav,Misfortune of others,2
+8.573553382,3.18899218,map/ah32_1.wav,Misfortune of others,2
+-6.69484848,-2.515726671,map/ah32_2.wav,Misfortune of others,2
+-0.190790361,-1.83746297,map/ah32_4.wav,Misfortune of others,2
+-3.153631885,-3.158426885,map/ah35_3.wav,Misfortune of others,2
+9.264969118,-2.482022013,map/ah35_8.wav,Misfortune of others,2
+1.275277031,-4.105896704,map/ah35_9.wav,Misfortune of others,2
+-1.814135954,-9.763127979,map/ah36_4.wav,Misfortune of others,2
+-4.806910094,0.860861824,map/ah36_7.wav,Misfortune of others,2
+-4.263246767,-0.939701848,map/ah36_9.wav,Misfortune of others,2
+-3.397348041,-7.598304101,map/ah38_1.wav,Misfortune of others,2
+-8.663500463,0.301914695,map/ah38_10.wav,Misfortune of others,2
+-2.403169113,-5.554321485,map/ah38_11.wav,Misfortune of others,2
+-1.956072965,-7.515385645,map/ah38_8.wav,Misfortune of others,2
+2.806105154,-3.704062758,map/ah38_9.wav,Misfortune of others,2
+-0.6064986,0.579366443,map/ah39_4.wav,Misfortune of others,2
+-9.914373325,-1.563095355,map/ah39_8.wav,Misfortune of others,2
+-6.957157592,3.031100806,map/ah40_3.wav,Misfortune of others,2
+0.28159245,-7.483042651,map/ah8_1.wav,Misfortune of others,2
+-3.029430719,-3.99631144,map/ah8_10.wav,Misfortune of others,2
+-7.379420735,-1.607026978,map/ah8_11.wav,Misfortune of others,2
+-5.515561239,-4.107024226,map/ah8_2.wav,Misfortune of others,2
+-1.938087257,1.858709348,map/ah8_3.wav,Misfortune of others,2
+7.353906007,-0.15138622,map/ah8_5.wav,Misfortune of others,2
+7.640772093,2.479069511,map/ah8_8.wav,Misfortune of others,2
+4.341377085,-6.27411706,map/ah8_9.wav,Misfortune of others,2
+-2.606862235,0.500718635,map/ah157_1.wav,Misfortune of others,2
+3.220066245,-4.716916979,map/a28_1.wav,Verbal joke,3
+9.663930658,0.938068698,map/a28_2.wav,Verbal joke,3
+7.522312978,-0.235261662,map/a29.wav,Verbal joke,3
+-3.15989947,-4.094566294,map/a30.wav,Verbal joke,3
+10.73755399,-0.20485715,map/a32_1.wav,Verbal joke,3
+-5.514185214,0.78700834,map/a35.wav,Verbal joke,3
+5.835443859,2.773916147,map/a37.wav,Verbal joke,3
+2.808387422,1.628310754,map/a38_1.wav,Verbal joke,3
+-4.806212784,-2.971549642,map/a42.wav,Verbal joke,3
+9.680011381,4.214991944,map/a43.wav,Verbal joke,3
+8.556603843,0.311638568,map/a44.wav,Verbal joke,3
+3.19289763,-0.177222656,map/aa10_1.wav,Verbal joke,3
+5.101820663,-0.610455951,map/aa11_1.wav,Verbal joke,3
+1.102871399,-2.145065799,map/aa11_2.wav,Verbal joke,3
+9.341217009,0.51507221,map/aa12_1.wav,Verbal joke,3
+2.696043513,-0.672246466,map/aa12_2.wav,Verbal joke,3
+12.31614866,0.876484855,map/aa13.wav,Verbal joke,3
+5.458480715,0.136728763,map/aa14_1.wav,Verbal joke,3
+8.330471855,-0.582763719,map/aa14_2.wav,Verbal joke,3
+9.516071259,2.678700127,map/aa14_3.wav,Verbal joke,3
+5.652680013,1.574233673,map/aa15.wav,Verbal joke,3
+-0.545788715,-2.566773068,map/aa17_7.wav,Verbal joke,3
+9.829309843,1.331178477,map/aa17_8.wav,Verbal joke,3
+-7.60348301,-0.357072879,map/aa18_1.wav,Verbal joke,3
+-5.426670177,2.148768868,map/aa18_2.wav,Verbal joke,3
+-9.319957187,2.791581324,map/aa18_4.wav,Verbal joke,3
+-8.392881606,1.35076672,map/aa18_5.wav,Verbal joke,3
+-4.017402685,1.560419966,map/aa18_6.wav,Verbal joke,3
+13.02826559,-0.829045293,map/aa2_2.wav,Verbal joke,3
+8.567961133,0.705302003,map/aa2_3.wav,Verbal joke,3
+10.37730384,0.461086837,map/aa2_4.wav,Verbal joke,3
+3.131189384,1.770659713,map/aa2_5.wav,Verbal joke,3
+13.3349174,-0.282525626,map/aa2_6.wav,Verbal joke,3
+1.155611559,-1.072382037,map/aa2_7.wav,Verbal joke,3
+3.484409118,-1.201437045,map/aa2_8.wav,Verbal joke,3
+-0.619490887,3.367605648,map/aa24_4.wav,Verbal joke,3
+9.943881484,2.464395818,map/aa25_1.wav,Verbal joke,3
+-1.81844355,-0.528222033,map/aa25_3.wav,Verbal joke,3
+-6.4235456,-2.619815694,map/aa25_5.wav,Verbal joke,3
+6.368326873,2.527035673,map/aa26_3.wav,Verbal joke,3
+0.970842502,0.872757603,map/aa27_1.wav,Verbal joke,3
+12.83841993,1.39609028,map/aa27_2.wav,Verbal joke,3
+7.305861402,2.169322346,map/aa29_1.wav,Verbal joke,3
+-6.385439956,-0.724659127,map/aa31_1.wav,Verbal joke,3
+6.938764373,3.893027778,map/aa31_3.wav,Verbal joke,3
+5.927181885,1.842314493,map/aa31_4.wav,Verbal joke,3
+-4.697800642,-2.067010303,map/aa31_6.wav,Verbal joke,3
+6.193980033,-0.989530597,map/aa5_1.wav,Verbal joke,3
+6.08802599,0.390864677,map/aa5_2.wav,Verbal joke,3
+4.020196672,0.928488046,map/aa6_1.wav,Verbal joke,3
+12.21599685,1.557370841,map/aa6_2.wav,Verbal joke,3
+4.506797788,1.07684722,map/aa7.wav,Verbal joke,3
+-4.19484734,-0.590791004,map/aa9_1.wav,Verbal joke,3
+9.598856511,0.597320267,map/aa9_2.wav,Verbal joke,3
+-1.83584704,-2.375827457,map/aa9_3.wav,Verbal joke,3
+2.692976126,-0.757811512,map/ah1_5.wav,Verbal joke,3
+-2.122589318,0.798169978,map/ah14_1.wav,Verbal joke,3
+-0.387991162,1.555584002,map/ah14_15.wav,Verbal joke,3
+-8.934602171,-0.300193106,map/ah14_4.wav,Verbal joke,3
+5.45574673,1.451462998,map/ah14_6.wav,Verbal joke,3
+-2.09065587,0.560073229,map/ah14_7.wav,Verbal joke,3
+-6.244953396,-2.965516708,map/ah15_1.wav,Verbal joke,3
+-5.732323895,-6.070264008,map/ah16_6.wav,Verbal joke,3
+7.792977687,-1.678007303,map/ah16_7.wav,Verbal joke,3
+5.971213732,-1.978254069,map/ah16_8.wav,Verbal joke,3
+-0.229539674,-2.785321153,map/ah17_1.wav,Verbal joke,3
+-0.369639025,-3.472656865,map/ah17_6.wav,Verbal joke,3
+-4.976740821,0.756087423,map/ah20_2.wav,Verbal joke,3
+1.741014355,-1.323991999,map/ah20_4.wav,Verbal joke,3
+-1.058825587,-0.295753205,map/ah20_5.wav,Verbal joke,3
+2.282829285,-5.23350297,map/ah21_1.wav,Verbal joke,3
+-5.052876711,-6.684373708,map/ah21_2.wav,Verbal joke,3
+-1.259231525,-2.228673367,map/ah23_10.wav,Verbal joke,3
+-3.247424098,0.682591239,map/ah23_11.wav,Verbal joke,3
+2.140417925,-1.94052543,map/ah23_12.wav,Verbal joke,3
+6.369652007,-2.262519882,map/ah23_17.wav,Verbal joke,3
+7.016822949,-1.744926434,map/ah23_18.wav,Verbal joke,3
+-0.101457471,-2.87028246,map/ah23_19.wav,Verbal joke,3
+6.275653123,-0.563568343,map/ah23_7.wav,Verbal joke,3
+5.264414581,1.605733001,map/ah23_9.wav,Verbal joke,3
+-0.283547482,-3.193996598,map/ah24_12.wav,Verbal joke,3
+-2.425905107,-3.456307336,map/ah24_14.wav,Verbal joke,3
+7.966280781,-4.105017903,map/ah24_2.wav,Verbal joke,3
+-2.298835529,-0.907317908,map/ah24_4.wav,Verbal joke,3
+-0.894404195,-3.713906276,map/ah25_10.wav,Verbal joke,3
+-6.025681294,-1.26225255,map/ah25_6.wav,Verbal joke,3
+-2.333487058,-0.291301966,map/ah25_7.wav,Verbal joke,3
+11.08345436,-0.635328617,map/ah26_10.wav,Verbal joke,3
+5.473828614,-2.67594502,map/ah26_13.wav,Verbal joke,3
+1.414540718,-2.816743889,map/ah26_17.wav,Verbal joke,3
+-0.640487184,-3.96755121,map/ah26_18.wav,Verbal joke,3
+2.216161305,-3.631546184,map/ah26_3.wav,Verbal joke,3
+0.43851531,-4.062699843,map/ah26_4.wav,Verbal joke,3
+-3.831846051,-1.891501926,map/ah26_5.wav,Verbal joke,3
+0.490916803,-1.694363404,map/ah27_11.wav,Verbal joke,3
+-5.820360104,1.279511052,map/ah27_12.wav,Verbal joke,3
+0.112084878,-3.170467706,map/ah27_3.wav,Verbal joke,3
+-3.135494514,0.021008021,map/ah27_4.wav,Verbal joke,3
+5.645706969,-2.979704873,map/ah27_5.wav,Verbal joke,3
+-3.463519388,2.7037121,map/ah27_9.wav,Verbal joke,3
+-2.789189433,-5.048188378,map/ah28_4.wav,Verbal joke,3
+8.302303826,-2.302061594,map/ah28_8.wav,Verbal joke,3
+9.458312767,-0.43879241,map/ah28_9.wav,Verbal joke,3
+8.782952576,-1.263276567,map/ah29_3.wav,Verbal joke,3
+-1.715532125,-7.162305882,map/ah35_4.wav,Verbal joke,3
+-1.801787572,-4.694949047,map/ah35_5.wav,Verbal joke,3
+9.72678838,3.015723648,map/ah37_2.wav,Verbal joke,3
+-0.828371871,-1.060364844,map/ah39_3.wav,Verbal joke,3
+-1.08082289,7.445527403,map/ah39_9.wav,Verbal joke,3
+1.920411394,-3.691802453,map/ah41_1.wav,Verbal joke,3
+-0.730376928,-4.916220161,map/ah41_10.wav,Verbal joke,3
+-10.64751896,-0.96742628,map/ah41_11.wav,Verbal joke,3
+-11.17723359,-1.361946168,map/ah41_12.wav,Verbal joke,3
+4.09360954,-3.311027902,map/ah41_13.wav,Verbal joke,3
+-10.58097488,-1.239747682,map/ah41_14.wav,Verbal joke,3
+8.100173813,-0.384931622,map/ah41_15.wav,Verbal joke,3
+-3.628064436,-5.108672877,map/ah41_16.wav,Verbal joke,3
+6.740209342,-1.063422383,map/ah41_2.wav,Verbal joke,3
+9.575487568,-0.448617216,map/ah41_3.wav,Verbal joke,3
+-7.532136768,-0.836217736,map/ah41_4.wav,Verbal joke,3
+-3.548296354,-5.656747822,map/ah41_5.wav,Verbal joke,3
+-4.653739119,-3.03701483,map/ah41_6.wav,Verbal joke,3
+-7.617616136,0.456560736,map/ah41_7.wav,Verbal joke,3
+-3.81367066,-4.382211534,map/ah41_8.wav,Verbal joke,3
+-0.120952255,-2.064446762,map/ah41_9.wav,Verbal joke,3
+2.929171419,3.552386507,map/aal65.wav,Verbal joke,3
+-5.599881404,-1.554649928,map/aal66.wav,Verbal joke,3
+7.551653493,-1.322373331,map/aal67.wav,Verbal joke,3
+6.388143244,-3.465538654,map/aal68.wav,Verbal joke,3
+-6.693293766,1.029725228,map/aal69.wav,Verbal joke,3
+-2.765776857,2.299043214,map/aal70.wav,Verbal joke,3
+-3.53329372,5.262135575,map/aal71.wav,Verbal joke,3
+3.367393202,1.109571061,map/aal72.wav,Verbal joke,3
+6.796438449,-0.686138796,map/aal73.wav,Verbal joke,3
+3.637371251,2.017982185,map/aal74.wav,Verbal joke,3
+-4.099004016,-3.799196405,map/aal75.wav,Verbal joke,3
+-0.927812978,-1.100862072,map/aal76.wav,Verbal joke,3
+9.212112322,-1.974608799,map/aal77.wav,Verbal joke,3
+-10.27926356,-0.569397324,map/ah101_1.wav,Verbal joke,3
+-7.287079643,1.939815569,map/ah101_2.wav,Verbal joke,3
+-8.693320571,6.141049245,map/ah101_3.wav,Verbal joke,3
+-5.787288162,1.418426245,map/ah101_4.wav,Verbal joke,3
+7.308761016,-0.810247893,map/ah101_5.wav,Verbal joke,3
+-2.738930174,-0.345985215,map/ah101_6.wav,Verbal joke,3
+6.531023125,-1.948774457,map/ah101_7.wav,Verbal joke,3
+0.359514922,4.287713553,map/ah101_8.wav,Verbal joke,3
+5.572864856,0.830037999,map/ah102_1.wav,Verbal joke,3
+-1.109594933,0.896562222,map/ah102_2.wav,Verbal joke,3
+9.02395771,1.255974292,map/ah102_3.wav,Verbal joke,3
+5.291632182,-1.136370463,map/ah102_4.wav,Verbal joke,3
+-4.705603656,-0.199588037,map/ah102_5.wav,Verbal joke,3
+3.278044149,1.158430324,map/ah103.wav,Verbal joke,3
+-1.871129662,-9.534207056,map/ah104.wav,Verbal joke,3
+10.9871981,-0.433620515,map/ah105.wav,Verbal joke,3
+6.567870686,1.368373998,map/ah106.wav,Verbal joke,3
+-3.803675477,0.184043771,map/ah107.wav,Verbal joke,3
+-5.231549993,2.422181204,map/ah108.wav,Verbal joke,3
+11.3219547,0.648016157,map/ah109.wav,Verbal joke,3
+6.495808844,-1.261095279,map/ah110.wav,Verbal joke,3
+1.874500552,-2.65748434,map/ah111.wav,Verbal joke,3
+11.75239223,-1.404941622,map/ah112.wav,Verbal joke,3
+-5.411575446,-0.62350026,map/ah113.wav,Verbal joke,3
+-4.105048923,2.658710004,map/ah114.wav,Verbal joke,3
+11.9594221,0.177796981,map/ah115.wav,Verbal joke,3
+4.534156648,-2.03262165,map/ah116.wav,Verbal joke,3
+5.160350843,2.901225761,map/ah117.wav,Verbal joke,3
+-6.156262961,3.75474731,map/ah118.wav,Verbal joke,3
+8.293536981,-1.381549567,map/ah119.wav,Verbal joke,3
+3.777504616,-1.016026599,map/ah120_1.wav,Verbal joke,3
+7.463899531,-1.123462095,map/ah120_2.wav,Verbal joke,3
+-10.56574897,2.257236319,map/ah121.wav,Verbal joke,3
+-4.915288827,2.332681769,map/ah122.wav,Verbal joke,3
+2.40162343,3.835355919,map/ah123.wav,Verbal joke,3
+-7.734179639,2.841781558,map/ah124.wav,Verbal joke,3
+7.16718076,-1.815887075,map/ah125.wav,Verbal joke,3
+8.773598738,-0.068074042,map/ah126.wav,Verbal joke,3
+-4.723102332,0.873404141,map/ah127.wav,Verbal joke,3
+0.293112036,-1.046093887,map/ah128.wav,Verbal joke,3
+12.69382935,-0.248420474,map/ah129.wav,Verbal joke,3
+7.306868049,-0.372054223,map/ah130.wav,Verbal joke,3
+-6.561923152,5.656680494,map/ah131.wav,Verbal joke,3
+-5.313920645,-1.75254976,map/ah132_1.wav,Verbal joke,3
+-3.408246655,8.332041142,map/ah132_2.wav,Verbal joke,3
+-0.642708998,-6.137144983,map/ah133.wav,Verbal joke,3
+11.9792829,0.158134145,map/ah134.wav,Verbal joke,3
+1.001478197,-3.509981525,map/ah135.wav,Verbal joke,3
+-8.032678611,1.544154492,map/ah136.wav,Verbal joke,3
+6.691555003,1.08205219,map/ah137.wav,Verbal joke,3
+5.427813476,-2.228357757,map/ah138.wav,Verbal joke,3
+-2.369743489,-5.961319647,map/ah139.wav,Verbal joke,3
+-0.665782193,-4.881696017,map/ah140.wav,Verbal joke,3
+-0.655594538,-9.081641967,map/ah141.wav,Verbal joke,3
+-2.876273855,7.002648152,map/ah142.wav,Verbal joke,3
+-4.632421579,4.719615174,map/ah143.wav,Verbal joke,3
+10.36303124,-2.282926908,map/ah152.wav,Verbal joke,3
